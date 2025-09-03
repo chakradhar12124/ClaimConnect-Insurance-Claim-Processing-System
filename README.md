@@ -1,4 +1,5 @@
 ClaimConnect – Insurance Claim Processing System
+Technologies: React,Bootstrap, Spring Boot, Spring Cloud (Eureka, Gateway, Config Server), Feign Client, JWT, MySQL, GitHub
 
 •	Developed an end-to-end insurance claim processing platform using Spring Boot Microservices and React, 
 enabling role-based workflows for hospitals, patients, and insurance companies.
